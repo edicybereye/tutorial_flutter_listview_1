@@ -1,6 +1,6 @@
-# tutorial_list_view_flutter
+# Tutorial List View on Flutter Session 1
 
-A new Flutter project.
+Understanding about ListView on Flutter
 
 ## Getting Started
 
